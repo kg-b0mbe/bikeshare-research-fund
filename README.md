@@ -8,7 +8,7 @@ A small personal fund supporting students in Japan who research bikeshare / bike
 
 ## サイト
 
-- 公開URL：https://＜ユーザー名＞.github.io/bikeshare-research-fund/ ←公開後に差し替え
+- 公開URL：https://kg-b0mbe.github.io/bikeshare-research-fund/
 - 応募フォーム：[Googleフォーム](https://docs.google.com/forms/d/e/1FAIpQLSf2jOJY9yilhlvbJSAlVH2h4HnBgTDwcKtL0n9CMt3cU_EALQ/viewform)
 
 ## 基金の概要
@@ -47,7 +47,6 @@ HTML・CSSは `index.html` に全部入りです。ビルド不要で、その�
 
 ## 運営
 
-- 運営者：山田慧史（個人）
 - 本基金は運営者が個人として行う活動であり、特定の企業・団体とは無関係です。
 - お問い合わせ・論文の推薦は応募フォームからお願いします。
 
