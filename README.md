@@ -1,10 +1,10 @@
 # bikeshare-research-fund
 
-**シェアサイクル研究基金（Share Cycle Research Fund）** の公式サイトのリポジトリです。
+**シェアサイクル研究支援基金（Share Cycle Research Support Fund）** の公式サイトのリポジトリです。
 
-シェアサイクルに関する研究に取り組む学生（高専生・大学生・大学院生）の学会参加費・渡航費を、個人として応援する小さな基金です。
+シェアサイクルと特定小型原付のシェアに関する研究に取り組む大学院生を、個人として応援する小さな基金です。学会参加や渡航、書籍などへの活用を期待していますが、使いみちはご本人に委ねます。
 
-A small personal fund supporting students in Japan who research bikeshare / bike sharing, covering conference fees and travel expenses.
+A small personal fund supporting graduate students in Japan who research bikeshare / bike sharing or shared specified small motorized bicycles (特定小型原付). Conference participation, travel, and books are preferred uses, but recipients are free to decide how to use the funds.
 
 ## サイト
 
@@ -16,8 +16,8 @@ A small personal fund supporting students in Japan who research bikeshare / bike
 | 項目 | 内容 |
 |---|---|
 | 支援額 | 1件 5万円 または 10万円（研究内容などを踏まえて決定） |
-| 使途 | 学会・研究会の参加費、発表のための渡航費・交通費・宿泊費など |
-| 対象 | シェアサイクルに関する研究に取り組む学生（高専生・大学生・大学院生）。分野不問 |
+| 使途 | 学会・研究会の参加費、渡航費・交通費・宿泊費、書籍などへの活用が望ましいものの、用途は限定せず本人に委ねる |
+| 対象 | シェアサイクルと特定小型原付のシェアに関する研究に取り組む大学院生（修士課程・博士課程）。分野不問 |
 | 形式 | 運営者個人からの贈与（返済不要） |
 | 応募 | 公募のほか、運営者からのお声がけ・他薦も歓迎 |
 
